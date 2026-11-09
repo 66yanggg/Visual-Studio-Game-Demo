@@ -1,0 +1,7 @@
+C:\Users\20977\source\repos\c#学习\项目\obj\Debug\项目.csproj.AssemblyReference.cache
+C:\Users\20977\source\repos\c#学习\项目\obj\Debug\项目.csproj.CoreCompileInputs.cache
+C:\Users\20977\source\repos\c#学习\项目\bin\Debug\项目.exe.config
+C:\Users\20977\source\repos\c#学习\项目\bin\Debug\项目.exe
+C:\Users\20977\source\repos\c#学习\项目\bin\Debug\项目.pdb
+C:\Users\20977\source\repos\c#学习\项目\obj\Debug\项目.exe
+C:\Users\20977\source\repos\c#学习\项目\obj\Debug\项目.pdb

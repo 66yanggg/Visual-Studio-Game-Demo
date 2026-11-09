@@ -1,0 +1,15 @@
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\bin\Release\net10.0-windows\FlightGame.exe
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\bin\Release\net10.0-windows\FlightGame.deps.json
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\bin\Release\net10.0-windows\FlightGame.runtimeconfig.json
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\bin\Release\net10.0-windows\FlightGame.dll
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\bin\Release\net10.0-windows\FlightGame.pdb
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\obj\Release\net10.0-windows\FlightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\obj\Release\net10.0-windows\FlightGame.AssemblyInfoInputs.cache
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\obj\Release\net10.0-windows\FlightGame.AssemblyInfo.cs
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\obj\Release\net10.0-windows\FlightGame.csproj.CoreCompileInputs.cache
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\obj\Release\net10.0-windows\FlightGame.dll
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\obj\Release\net10.0-windows\refint\FlightGame.dll
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\obj\Release\net10.0-windows\FlightGame.pdb
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\obj\Release\net10.0-windows\FlightGame.genruntimeconfig.cache
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\obj\Release\net10.0-windows\ref\FlightGame.dll
+C:\Users\20977\Documents\deepseek-harness\default-workspace\FlightGame\obj\Release\net10.0-windows\FlightGame.csproj.Up2Date
